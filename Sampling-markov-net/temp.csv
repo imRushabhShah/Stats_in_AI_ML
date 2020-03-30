@@ -1,0 +1,16 @@
+Grid, cutset, N, sample_num, log10(part), time in sec, type of algo
+Grids_15.uai,4,100,0,270.2547655,9.39368844,Uniform Distribution
+Grids_15.uai,4,100,1,270.7934111,9.462707281,Uniform Distribution
+Grids_15.uai,4,100,2,269.248911,9.385650635,Uniform Distribution
+Grids_14.uai,1,100,0,401.9199486,1.577592611,Uniform Distribution
+Grids_14.uai,1,100,1,395.1717877,1.514122486,Uniform Distribution
+Grids_14.uai,1,100,2,399.1658498,1.541413546,Uniform Distribution
+Grids_14.uai,1,100,3,400.8414663,1.572756052,Uniform Distribution
+Grids_14.uai,1,100,4,403.6982523,1.628497601,Uniform Distribution
+Grids_15.uai,4,100,0,269.8554407,9.327972889,  Adaptive Distribution
+Grids_15.uai,4,100,1,269.2182099,9.57493639,  Adaptive Distribution
+Grids_15.uai,4,100,2,270.5157224,9.74753499,  Adaptive Distribution
+Grids_14.uai,1,1000,0,0.4544504591678279,14.637003898620605,  Adaptive Distribution
+Grids_14.uai,1,1000,0,391.7488877899756,15.195892572402954,  Adaptive Distribution
+Grids_14.uai,6,1000,0,447.5268845901644,58.9981586933136,  Adaptive Distribution
+Grids_14.uai,10,1000,0,462.80362025117626,329.4840052127838,  Adaptive Distribution
